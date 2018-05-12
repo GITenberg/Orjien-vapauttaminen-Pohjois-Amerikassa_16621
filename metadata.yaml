@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6827
     wikipedia: http://en.wikipedia.org/wiki/Alexandra_Gripenberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16621#Orjien-vapauttaminen-Pohjois-Amerikassa
 gutenberg_issued: '2005-08-29'
 gutenberg_type: Text
 identifiers:
