@@ -1,0 +1,28 @@
+_repo: Orjien-vapauttaminen-Pohjois-Amerikassa_16621
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gripenberg, Alexandra, friherrinna
+    alias: Gripenberg, Aleksandra, friherrinna
+    birthdate: 1857
+    deathdate: 1913
+    gutenberg_agent_id: '6827'
+    url: http://www.gutenberg.org/2009/agents/6827
+    wikipedia: http://en.wikipedia.org/wiki/Alexandra_Gripenberg
+description: ''
+gutenberg_issued: '2005-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16621'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States -- History'
+- !lcc 'E151'
+title: Orjien vapauttaminen Pohjois-Amerikassa
+url: http://www.gutenberg.org/ebooks/16621
